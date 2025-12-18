@@ -1,0 +1,18 @@
+{
+  "equipment": [
+    {
+      "id": "df52d3db-b0f7-4055-b648-060c007b7981",
+      "name": "scissor",
+      "type": "Machine",
+      "status": "Active",
+      "lastCleaned": "2025-12-01"
+    },
+    {
+      "id": "66d28ec9-1a18-4228-bc1d-0fe06277a0fa",
+      "name": "chaku",
+      "type": "Vessel",
+      "status": "Under Maintenance",
+      "lastCleaned": "2025-12-01"
+    }
+  ]
+}
